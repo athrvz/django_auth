@@ -1,0 +1,1 @@
+# A small application that uses Django Authentication service for Sign In purpose.
